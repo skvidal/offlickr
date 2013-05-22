@@ -1,13 +1,13 @@
 offlickr
 ========
 
-Command line backup tool for Flickr
-
-It allows you to download photos, videos, metadata 
-(title, tags, description, geotags, notes, comments), and photosets.
+<p>Command line backup tool for Flickr</p>
 
 
+<p>It allows you to download photos, videos, metadata 
+(title, tags, description, geotags, notes, comments), and photosets.</p>
 
+<blockquote>
 Options:
   --version      show program's version number and exit
   -h, --help     show this help message and exit
@@ -29,3 +29,4 @@ Options:
   -v             verbose output
   -N             dry run
 
+</blockquote>
