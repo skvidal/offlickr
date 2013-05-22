@@ -1,15 +1,17 @@
 offlickr
 ========
-
 <p>Command line backup tool for Flickr</p>
 
+Forked from: https://code.google.com/p/offlickr/
 
 <p>It allows you to download photos, videos, metadata 
 (title, tags, description, geotags, notes, comments), and photosets.</p>
 
+Options:
+--------
 
 <pre>
-Options:
+
   --version      show program's version number and exit
   -h, --help     show this help message and exit
   -c THREADS     number of threads to run to backup photos
@@ -33,6 +35,7 @@ Options:
 
 
 Example usage:
+--------------
 
 `offlickr.py -f 2013-01-01 -t 2013-02-01 -p -n -w -c 5 -d /some/path`
 
@@ -46,3 +49,9 @@ This does the following:
 
 
 
+Originally written by: 
+----------------------
+
+* Hugo Haas -- mailto:hugo@larve.net -- http://larve.net/people/hugo/
+     Homepage: http://larve.net/people/hugo/2005/12/offlickr/
+* Daniel Drucker <dmd@3e.org>
