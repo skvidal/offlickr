@@ -54,4 +54,10 @@ Originally written by:
 
 * Hugo Haas -- mailto:hugo@larve.net -- http://larve.net/people/hugo/
      Homepage: http://larve.net/people/hugo/2005/12/offlickr/
+
+Augmented by:
+
 * Daniel Drucker <dmd@3e.org>
+* Seth Vidal <skvidal@fedoraproject.org>
+
+
