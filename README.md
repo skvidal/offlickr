@@ -30,3 +30,19 @@ Options:
   -v             verbose output
   -N             dry run
 </pre>
+
+
+Example usage:
+
+`offlickr.py -f 2013-01-01 -t 2013-02-01 -p -n -w -c 5 -d /some/path`
+
+This does the following:
+* download all the photos and metadata from your account  (-p)
+* between: 2013-01-01 and 2013-02-01 (-f and -t)
+* use 5 threads to download (-c).
+* use 'wget' to download the files. (-w)
+* not redownload anything that already exists. (-n)
+* download all the files to /some/path (-d)
+
+
+
