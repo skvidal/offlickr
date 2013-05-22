@@ -7,7 +7,8 @@ offlickr
 <p>It allows you to download photos, videos, metadata 
 (title, tags, description, geotags, notes, comments), and photosets.</p>
 
-<blockquote>
+
+<pre>
 Options:
   --version      show program's version number and exit
   -h, --help     show this help message and exit
@@ -28,5 +29,4 @@ Options:
                  picture timestamps
   -v             verbose output
   -N             dry run
-
-</blockquote>
+</pre>
